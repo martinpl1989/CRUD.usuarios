@@ -1,0 +1,17 @@
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\bin\Debug\netcoreapp2.0\npm-shrinkwrap.json
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\bin\Debug\netcoreapp2.0\package.json
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\bin\Debug\netcoreapp2.0\tsconfig.json
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\bin\Debug\netcoreapp2.0\ReactCrudUsers.deps.json
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\bin\Debug\netcoreapp2.0\ReactCrudUsers.runtimeconfig.json
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\bin\Debug\netcoreapp2.0\ReactCrudUsers.runtimeconfig.dev.json
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\bin\Debug\netcoreapp2.0\ReactCrudUsers.dll
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\bin\Debug\netcoreapp2.0\ReactCrudUsers.pdb
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\obj\Debug\netcoreapp2.0\ReactCrudUsers.AssemblyInfoInputs.cache
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\obj\Debug\netcoreapp2.0\ReactCrudUsers.AssemblyInfo.cs
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\obj\Debug\netcoreapp2.0\ReactCrudUsers.csproj.CoreCompileInputs.cache
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\obj\Debug\netcoreapp2.0\ReactCrudUsers.dll
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\obj\Debug\netcoreapp2.0\ReactCrudUsers.pdb
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\obj\Debug\netcoreapp2.0\ReactCrudUsers.genruntimeconfig.cache
+C:\Users\m.perez\Desktop\CRUD.usuarios\ReactCrudUsers\obj\Debug\netcoreapp2.0\ReactCrudUsers.csproj.AssemblyReference.cache
